@@ -1,0 +1,5 @@
+
+node_modules/
+manejo_argumentos/*.txt
+yargs/*.txt
+salida/*.txt
