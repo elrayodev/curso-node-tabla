@@ -1,8 +1,9 @@
 # Notas:
+El siguiente programa de linea de comandos crea un archivo en la carpeta salida, de una tabla de multiplicar dependiendo de las opciones proporcionadas por el usuario.
 
 En la carpeta manejo_argumentos fue un acercamiento a cómo funciona la parte de argv de node.
 
-En la carpeta yargs, escribiendo en la linea de comandos dentro de ésta carpeta lo siguiente: ```node app --help``` se visualizan las opciones de las flags que acepta el programa
+En la carpeta yargs, escribiendo en la linea de comandos dentro de ésta carpeta lo siguiente: ```node app --help``` se visualizan las opciones de las flags que acepta el programa:
 
 ```
 Opciones:
